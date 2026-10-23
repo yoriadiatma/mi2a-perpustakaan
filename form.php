@@ -21,7 +21,7 @@
                         <a class="nav-link active" aria-current="page" href="#">Home</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#">Buku</a>
+                        <a class="nav-link" href="buku.php">Buku</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="#">Anggota</a>
